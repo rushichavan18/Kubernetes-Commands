@@ -342,18 +342,3 @@ kubectl get secret jenkins-demo -o jsonpath="{.data.jenkins-admin-password}" | b
 
 ---
 
-## 📌 Summary
-
-This README covers:
-
-* Linux basics
-* Docker lifecycle
-* Kubernetes cluster creation (Kind)
-* Core K8s objects (Pod, Deployment, Service)
-* Storage (PV/PVC)
-* Autoscaling (HPA)
-* Helm & Jenkins
-
-
-
-Just tell me 👍
